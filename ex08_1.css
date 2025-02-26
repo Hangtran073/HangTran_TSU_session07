@@ -1,0 +1,90 @@
+*{ 
+   text-align: center;
+   margin:0;
+   
+}
+
+.header {
+    background-color: black; 
+    color: white;
+    height: 40px;
+    padding-top: 15px;
+    display:grid;
+   
+    grid-template-columns: repeat(1,1fr);
+    gap:5px;
+    
+
+   
+
+   
+
+    
+    
+    
+   
+}
+
+.blog{
+   
+}
+a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    font-size: 10px;
+
+    
+}
+.box{
+    background-color:#F4F4F4 ;
+    line-height: 40px;
+   
+
+}
+.child{
+    width:100px;
+    height:100px;
+    background-color: #CCCCCC;
+    border-radius: 3px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:rgba(0, 0, 0, 0.1)
+}
+.parent{
+    display:flex;
+    gap:10px;
+    justify-content: center;
+
+}
+button{
+    background-color: black;
+    border-radius: 3px;
+    color:white;
+
+}
+.project{
+    display:flex;
+    gap:50px;
+    justify-content: center;
+}
+
+.about{
+    background-color: #F9F9F9;
+    line-height: 40px;
+    font-size: 10px;
+   
+}
+
+.footer {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.3)
+;
+
+    height: 40px;
+}
