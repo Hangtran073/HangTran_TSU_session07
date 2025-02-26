@@ -1,0 +1,44 @@
+.parent {
+    background-color: #F0F0F0;
+    border: 2px solid black;
+    width: 500px;
+    height: 400px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+
+
+ 
+   
+
+
+}
+
+
+.child {
+   
+
+    display: flex;
+    background-color: #3498DB;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: #FDFBFB;
+    align-items: center;
+    justify-content: center;
+}
+
+    
+
+    
+
+
+    
+    
+
+
+
+
+
